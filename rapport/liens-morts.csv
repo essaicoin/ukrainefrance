@@ -1,0 +1,321 @@
+﻿url;erreur;pages concernees
+http://aideukraine.fr/;HTTPError: HTTP Error 404: Not Found;26.html | 28.html
+http://dnmchs.ru/post/2686;URLError: <urlopen error timed out>;31.html
+http://easyrusse.com/karta_ada;HTTPError: HTTP Error 403: Forbidden;banque-ada.html
+http://easyrusse.com/vremennaia_zachita_vo_francii;HTTPError: HTTP Error 403: Forbidden;38.html
+http://fromukrainetoportugal.com/;HTTPError: HTTP Error 405: Not Allowed;27.html
+http://infohelpua.com;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;27.html
+http://infohelpua.com/;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;16.html
+http://infohelpua.com/#job;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;61.html
+http://mailto:contact@ecolefair.org;InvalidURL: nonnumeric port: 'contact@ecolefair.org';35.html
+http://refugees-welcomeni.co.uk/;URLError: <urlopen error [Errno -2] Name or service not known>;neofitsine-zhitlo.html
+http://services.ratp.fr/fr/ratp/r_29246/dans-le-reseau-ratp/;URLError: <urlopen error [Errno -2] Name or service not known>;navigo.html
+http://shukaty.com/;URLError: <urlopen error [Errno -2] Name or service not known>;31.html
+http://www.annuaires.justice.gouv.fr/;HTTPError: HTTP Error 400: Bad request;11.html
+http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-maisons-de-justice-et-du-droit-21773.html;HTTPError: HTTP Error 400: Bad request;advocat.html
+http://www.arrue-associes.ru/;URLError: <urlopen error [Errno -2] Name or service not known>;advocat.html
+http://www.interior.gob.es/es/web/servicios-al-ciudadano/ucrania-proteccion-temporal;HTTPError: HTTP Error 403: Forbidden;27.html
+http://www.justice.gouv.fr/bo/2022/20220429/JUSF2210333N.pdf;HTTPError: HTTP Error 400: Bad request;mineur-non-accompagne.html
+http://www.leboncoin.fr/;HTTPError: HTTP Error 403: Forbidden;53.html
+http://www.litvinski.com/;HTTPError: HTTP Error 406: Not Acceptable;advocat.html
+http://zaichenkoteam.com/;HTTPError: HTTP Error 403: Forbidden;61.html
+https://accueil-integration-refugies.fr/wp-content/uploads/2022/03/Acce%CC%81der-a%CC%80-un-centre-de-soin-psychologique.pdf;HTTPError: HTTP Error 404: Not Found;soigner-psy.html
+https://accueil-integration-refugies.fr/wp-content/uploads/2022/03/Inscrire-a-la-Caisse-dallocations-familiales.pdf;HTTPError: HTTP Error 404: Not Found;caf.html
+https://accueil-integration-refugies.fr/wp-content/uploads/2022/03/Inscrire-ses-enfants-a%CC%80-lecole.pdf;HTTPError: HTTP Error 404: Not Found;mineur-ecole.html
+https://accueil-integration-refugies.fr/wp-content/uploads/2022/03/Prendre-un-rendez-vous-medical-sur-Doctolib.pdf;HTTPError: HTTP Error 404: Not Found;soigner-avec.html
+https://api.tribefy.com/share/BpYjEAHeOxLH49Ild1M9A/2xZziBTncob;URLError: <urlopen error [Errno -5] No address associated with hostname>;28.html
+https://apprendre.tv5monde.com/fr/exercices/premiere-classe;HTTPError: HTTP Error 403: Forbidden;34.html
+https://apps.apple.com/fr/app/too-good-to-go/id1060683933;HTTPError: HTTP Error 429: Too Many Requests;iest-france.html | iest-paris.html
+https://appu.net.ua/;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;12.html
+https://assurance-carrefour-fr.translate.goog/assurance-scolaire-et-extrascolaire?gclsrc=aw.ds&utm_campaign=scolaire&utm_medium=google_ads&utm_source=google_cpc&_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://awayfromukraine.com/refugees;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;16.html | deplacer-europe.html
+https://bit.ly/3GitAdI;HTTPError: HTTP Error 403: Forbidden;artist.html
+https://bit.ly/3ke96c8;RemoteDisconnected: Remote end closed connection without response;73.html
+https://bit.ly/3lKL21k;URLError: <urlopen error [Errno -2] Name or service not known>;72.html | 73.html
+https://bit.ly/3lLN6WN;HTTPError: HTTP Error 404: Not Found;artist.html
+https://bit.ly/3sYKNnb;HTTPError: HTTP Error 403: Forbidden;72.html | 73.html
+https://blog.revolut.com/payment-services-to-ukrainian-refugees/;HTTPError: HTTP Error 403: Forbidden;banque-compte.html
+https://burak.com.ua/index.php/ua/;HTTPError: HTTP Error 404: Not Found;25.html | 30.html | banque-change.html
+https://cafaukraine.wixsite.com/my-site;HTTPError: HTTP Error 404: Not Found;28.html
+https://camp.marabou.club/mathgame-ukraine?fbclid=IwAR2eOsVKIC6GkxHyqKiSANZio71g2_pbOu04dCmj0DIixpOOUeSsevhdFC8;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://cartesolidaire-nouvelle-aquitaine.cba.fr/;HTTPError: HTTP Error 503: Service Temporarily Unavailable;deplacer-france.html
+https://collectforgood.org/?type=collect;URLError: <urlopen error timed out>;je-suis-francais-je-veux-aider-.html
+https://cologne.pasport.org.ua/;HTTPError: HTTP Error 403: Forbidden;59.html
+https://compendium.com.ua/uk/akt/192/;HTTPError: HTTP Error 403: Forbidden;soigner-medic.html
+https://connect.caf.fr/connexionappli/dist/#/aideConnexion?isFromLoginPage=true&origine_demande=web;HTTPError: HTTP Error 503: Service Indisponible;caf.html
+https://cynicallviv.com.ua/stalo-vidomo-chy-mozhut-studenty-cholovichoyi-stati-vyyizhdzhaty-za-kordon-pid-chas-vijny/;HTTPError: HTTP Error 500: Internal Server Error;72.html
+https://dialogue.lesallay.academy/lectorium?fbclid=IwAR3vi634nThgS6O-oAELuQbB_X-ZALgj5QGcaIREYOSPsfM3QiSGjt55pHY;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://dialogue.lesallay.academy/our_schools?fbclid=IwAR1iLTKZTENzCsKgBUeo8M5X29qriLyJ3DR3jyooV5q0mrHmqWyNzsvhwF4;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://dialogue.lesallay.academy/scholarships_ukraine?fbclid=IwAR0mNpgol6m8ZEA_1Phx-n5A_OWnOLN-79qwzPGi3OXBKrvzr-O6z4cEQiY;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://dialogue.lesallay.academy/scholarships_ukraine?fbclid=IwAR3QJUSAwS07ZHJJII-kfBS441Dc5_OPNT-TBBGncjjQWqRILmWWdv_Np0o;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://diia.gov.ua/services/vidnovlennya-ta-obmin-posvidchennya-vodiya?fbclid=IwAR2_rRLDsgwtEr9GyeVpmWuaskhjTpR4s0sRNlyYfq0-8CBafpGxOr6qbeE;HTTPError: HTTP Error 404: Not Found;45.html
+https://docs.google.com/document/d/14jN_Ki-0sutG7xaFJhJvg2YYOUz9agQ-/edit;HTTPError: HTTP Error 410: Gone;je-suis-francais-je-veux-aider-.html
+https://docs.google.com/forms/d/e/1FAIpQLSchEcq8nwlK2s_1rexHBsAZ-zvQpvS-L9gR_17g8oEtXxqSdA/viewform;HTTPError: HTTP Error 404: Not Found;je-suis-francais-je-veux-aider-.html
+https://donnons.org/annonces?q=meuble;HTTPError: HTTP Error 404: Not Found;55.html
+https://dpsu.gov.ua/ua/Peretinannya-derzhavnogo-kordonu-pid-chas-pravovogo-rezhimu-vonnogo-stanu-Pitannya-vidpovid/;HTTPError: HTTP Error 403: Forbidden;16.html
+https://dpsu.gov.ua/ua/news/vazhliva-informaciya-zvertamo-uvagu-gromadyan-yaki-peretinayut-kordon-z-polshcheyu/;HTTPError: HTTP Error 403: Forbidden;16.html | 25.html
+https://drive.google.com/file/d/1-URA7nAs8IRnQmNeWNaT6H8OryRDUDRU/view?fs=e&s=cl;HTTPError: HTTP Error 404: Not Found;60.html
+https://drive.google.com/file/d/1UdEDJ0bexm3wp3e7FOwpQ1DmxQbAkH53/view;HTTPError: HTTP Error 404: Not Found;18.html
+https://droit--finances-commentcamarche-com.translate.goog/faq/58252-vignette-critair-reglementation-et-sanction?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;46.html
+https://easyjobber-fr.translate.goog/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;61.html
+https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&locationCodes=fr&requiredLanguages=en(A1);HTTPError: HTTP Error 404: (Not Found);70.html
+https://ec.europa.eu/home-affairs/list-residence-permits-issued-member-states_en;HTTPError: HTTP Error 404: (Not Found);25.html | deplacer-europe.html
+https://ecouteukraine.fr/otrymaty-dopomohu-psykholoha/;HTTPError: HTTP Error 404: Not Found;soigner-psy.html
+https://eduscol.education.fr/3143/accueillir-des-enfants-arrivant-d-ukraine-ou-d-autres-zones-de-guerre;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://eduscol.education.fr/3173/maintenir-la-continuite-des-apprentissages-en-ukrainien;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html | mineur-ecole.html
+https://en.malt.fr/signup;HTTPError: HTTP Error 403: Forbidden;fop.html
+https://en.moz.gov.ua/vaccinations;URLError: <urlopen error [Errno -5] No address associated with hostname>;5.html
+https://fr.indeed.com/conseils-carrieres/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BE%D0%BC%D0%BE%D0%B2%D0%BD%D1%96-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%B8-%D0%B7-%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8;HTTPError: HTTP Error 403: Forbidden;61.html
+https://fr.indeed.com/conseils-carrieres/trouver-un-emploi/%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8F-%D0%B1%D0%B5%D0%B7-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%8C%D0%BA%D0%BE%D1%97;HTTPError: HTTP Error 403: Forbidden;62.html
+https://fr.jooble.org/emploi-parlant-russe;HTTPError: HTTP Error 403: Forbidden;61.html
+https://france-ukraine.com.ua/customs-regulations-france/;HTTPError: HTTP Error 404: Not Found;16.html
+https://france.mfa.gov.ua/fr/news/si-vous-souhaitez-aider-lukraine;HTTPError: HTTP Error 403: Forbidden;je-suis-francais-je-veux-aider-.html
+https://france.mfa.gov.ua/konsulski-pitannya/4293-najbilysh-aktualyni-pitannya-faq;HTTPError: HTTP Error 403: Forbidden;79.html
+https://france.mfa.gov.ua/konsulski-pitannya/diyi-z-pitan-gromadyanstva;HTTPError: HTTP Error 403: Forbidden;narodzhenia.html
+https://france.mfa.gov.ua/konsulski-pitannya/notarialni-diyi?fbclid=IwAR1RDDnDizLs19RUZPMCBOYJm6psRb-R_eC6xrVi2ViGcnLXUIaMKMWg1Q8;HTTPError: HTTP Error 403: Forbidden;45.html
+https://france.mfa.gov.ua/konsulski-pitannya/pasportni-diyi;HTTPError: HTTP Error 403: Forbidden;59.html
+https://france.mfa.gov.ua/konsulski-pitannya/rozklad-roboti-konsulskogo-viddilu;HTTPError: HTTP Error 403: Forbidden;narodzhenia.html
+https://france.mfa.gov.ua/konsulski-pitannya/terminova-dokumentaciya;HTTPError: HTTP Error 403: Forbidden;16.html
+https://france.mfa.gov.ua/konsulski-pitannya/umovi-vyizdu-gromadyan-ukrayini-do-franciyi;HTTPError: HTTP Error 403: Forbidden;16.html
+https://hireforukraine.org/;TimeoutError: The read operation timed out;61.html
+https://icanhelp.host/;TimeoutError: The read operation timed out;neofitsine-zhitlo.html
+https://immo.trovit.fr;HTTPError: HTTP Error 401: Unauthorized;orendu-kvartiri.html
+https://infohelpua.com/;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;28.html
+https://instagram.com/poshuk.znyklyh?igshid=YmMyMTA2M2Y=;HTTPError: HTTP Error 429: Too Many Requests;31.html
+https://instagram.com/project_most_obrazovanie?igshid=YmMyMTA2M2Y=;HTTPError: HTTP Error 429: Too Many Requests;mineur-divers.html
+https://instagram.com/safe.point.paris?igshid=YmMyMTA2M2Y=;HTTPError: HTTP Error 429: Too Many Requests;32.html
+https://iunovet.fr/contact/;HTTPError: HTTP Error 406: Not Acceptable;12.html
+https://leguidedurefugie.com/pdf/guide-du-refugie-version-py.pdf;HTTPError: HTTP Error 404: Not Found;28.html
+https://linktr.ee/frente_brazucra;HTTPError: HTTP Error 403: Forbidden;je-suis-francais-je-veux-aider-.html
+https://m.ter.sncf.com/hauts-de-france/se-deplacer/solidarite-ukraine;URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handsh;deplacer-france.html
+https://ma-work.com.ua/uk/country/frantsiya-uk/;HTTPError: HTTP Error 403: Forbidden;61.html
+https://madrid.pasport.org.ua/;HTTPError: HTTP Error 403: Forbidden;59.html
+https://magellanbus.com.ua/parcel-delivery/;HTTPError: HTTP Error 404: Not Found;30.html
+https://maisondelukraine.fr/;HTTPError: HTTP Error 404: Not Found;je-suis-francais-je-veux-aider-.html
+https://milan.pasport.org.ua/;HTTPError: HTTP Error 403: Forbidden;59.html
+https://mindclub.online/;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://minre.gov.ua/2023/04/18/kabmin-vregulyuvav-pytannya-pryznachennya-dopomogy-pry-narodzhenni-dytyny-batkam-yaki-cherez-vijnu-vyyihaly-za-kordon/;TimeoutError: The read operation timed out;narodzhenia.html
+https://mon.gov.ua/ua/news/distancijka-u-smartfoni-vseukrayinska-shkola-onlajn-zapuskaye-mobilnij-zastosunok;HTTPError: HTTP Error 403: Forbidden;mineur-divers.html
+https://moz.gov.ua/francuzska-respublika;HTTPError: HTTP Error 403: Forbidden;5.html | sante-france.html | soigner-avec.html
+https://mtsbu.ua/ua/presscenter/news/168164/;HTTPError: HTTP Error 404: Not Found;47.html
+https://nomad.normandie.fr/actualites/gratuite-des-transports-nomad-aux-refugies-ukrainiens;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://oniseptv.onisep.fr/?filters%5B01-type-de-la-video%5D=Etudes&filters%5B20-series%5D=L%27%C3%A9cole+expliqu%C3%A9e+aux+parents+en+ukrainien;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://online.mfa.gov.ua/application;HTTPError: HTTP Error 403: Forbidden;59.html
+https://particuliers-banque--france-fr.translate.goog/crise-ukrainienne-reponses-aux-questions-les-plus-frequentes?_x_tr_sl=fr&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 400: Bad Request;banque-compte.html
+https://portail.free.fr/mag-free/free-sengage/%d1%84%d1%80%d0%b0%d0%bd%d1%86%d1%83%d0%b7%d1%8c%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%bc%d0%be%d0%b1%d1%96%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b7%d0%b2%d1%8f/;HTTPError: HTTP Error 404: Not Found;simcard.html
+https://portal.eaeunion.org/sites/odata/redesign/Pages/InternationalNonProprietaryCodeClassifier.aspx;HTTPError: HTTP Error 404: Not Found;soigner-medic.html
+https://posts.naym.me/3EPhXdN;HTTPError: HTTP Error 405: Method Not Allowed;mineur-divers.html
+https://reopen.europa.eu/en/;URLError: <urlopen error [Errno -2] Name or service not known>;deplacer-europe.html | soigner-covid.html
+https://resa.notredamedeparis.fr/fr/messe/tickets;HTTPError: HTTP Error 403: Forbidden;18.html
+https://resources.malt.com/fr/freelances/articles-freelance/refugies-ukrainiens-comment-devenir-un-freelance/;HTTPError: HTTP Error 403: Forbidden;fop.html
+https://skme2021-my.sharepoint.com/:x:/g/personal/admin_skme2021_onmicrosoft_com/EZPb6rZRbttCgPDqglRhNeUBnWA9jA_b36lrZCDOpwi3TQ?rtime=6emE8LSb2kg;URLError: <urlopen error [Errno -2] Name or service not known>;29.html
+https://skme2021-my.sharepoint.com/:x:/g/personal/admin_skme2021_onmicrosoft_com/EZPb6rZRbttCgPDqglRhNeUBnWA9jA_b36lrZCDOpwi3TQ?rtime=md7NuoAO2kg;URLError: <urlopen error [Errno -2] Name or service not known>;36.html
+https://solidarite-accueil-refugies-ukrainiens.fr/Les-hebergements-actuels;HTTPError: HTTP Error 503: Service Unavailable;neofitsine-zhitlo.html
+https://support.google.com/translate/answer/6142473?hl=en&co=GENIE.Platform%3DAndroid;HTTPError: HTTP Error 404: Not Found;34.html
+https://szh.com.ua/;URLError: <urlopen error [Errno -2] Name or service not known>;28.html
+https://t.ly/GhV1z;HTTPError: HTTP Error 403: Forbidden;advocat.html
+https://tabletki.ua/inn/;HTTPError: HTTP Error 403: Forbidden;soigner-medic.html
+https://team4ua.com/;URLError: <urlopen error timed out>;je-suis-francais-je-veux-aider-.html
+https://timbres.impots.gouv.fr/;HTTPError: HTTP Error 403: Forbidden;mark.html
+https://translated.turbopages.org/proxy_u/fr-uk.fr.10c0f4db-65cc7f19-c9c75b6d-74722d776562/https/www.ameli.fr/seine-et-marne/assure/droits-demarches/difficultes-acces-droits-soins/complementaire-sante/complementaire-sante-solidaire-qui-peut-en-beneficier-et-comment;HTTPError: HTTP Error 403: Forbidden;58.html
+https://ua.aideukraine.fr/document/5WURURqYclfRpNaLpFl9Ea/distance-schools.pdf;URLError: <urlopen error [Errno -2] Name or service not known>;mineur-divers.html
+https://ua.aideukraine.fr/document/CxQjYY7HWbjjBj2BnHU0t/osvita-ukr.pdf;URLError: <urlopen error [Errno -2] Name or service not known>;mineur-ecole.html
+https://ua.ambafrance.org/Povernennya-do-Franciiyi-z-nepovnoliitniimi-diit-mi-dlya-siimej-yakii;HTTPError: HTTP Error 500: Internal Server Error;11.html | 25.html | deplacer-europe.html
+https://ua.jooble.org/%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8F?fs=e&p=5&s=cl;HTTPError: HTTP Error 403: Forbidden;61.html
+https://uainfo.eu/forum/114-francija/;HTTPError: HTTP Error 404: Not Found;28.html
+https://uk-fr.glideapp.io/;HTTPError: HTTP Error 404: Not Found;34.html
+https://ukraineglobaltaskforce.com/;URLError: <urlopen error [Errno -2] Name or service not known>;je-suis-francais-je-veux-aider-.html
+https://ukrainesupport.net/uk/;HTTPError: HTTP Error 404: Not Found;16.html | 27.html
+https://ukrainezone.org/;URLError: <urlopen error [Errno -2] Name or service not known>;27.html | neofitsine-zhitlo.html
+https://ukwelcomesukraine.org/en;HTTPError: HTTP Error 404: Not Found;27.html
+https://uprchlici-vitejte.cz/;HTTPError: HTTP Error 466: ;neofitsine-zhitlo.html
+https://uz-vezemo.com;TimeoutError: The read operation timed out;16.html
+https://veterinairespourtous-85.webselfsite.net/file/si1949976/VersionUkraineVPT-FBB-fi33079624.pdf;HTTPError: HTTP Error 404: Not Found;12.html
+https://visitukraine.today/departure;HTTPError: HTTP Error 403: Forbidden;16.html
+https://visitukraine.today/ru/blog/1380/how-to-open-a-business-in-france-advice-for-ukrainian-entrepreneurs;HTTPError: HTTP Error 403: Forbidden;fop.html
+https://visitukraine.today/uk/blog/1243/sistema-ptax-bezkostovna-evakuaciya-na-avtobusax-do-polshhi;HTTPError: HTTP Error 403: Forbidden;16.html
+https://visitukraine.today/uk/blog/1369/narodzennya-ditini-za-kordonom-yak-zarejestruvati-nemovlya-ta-pravila-povernennya-v-ukrainu;HTTPError: HTTP Error 403: Forbidden;narodzhenia.html
+https://visitukraine.today/uk/blog/1465/apostil-dlya-ukrainciv-2023-roku-novi-pravila-posvidcennya-dokumentiv-apostillem;HTTPError: HTTP Error 403: Forbidden;29.html
+https://visitukraine.today/uk/blog/286/z-yakimi-dokumentami-mozna-povernutisya-v-ukrainu;HTTPError: HTTP Error 403: Forbidden;25.html
+https://visitukraine.today/uk/blog/292/bezkostovnii-pariz-mozlivosti-dlya-ukrainciv;HTTPError: HTTP Error 403: Forbidden;18.html
+https://vitsche.org/uk/;HTTPError: HTTP Error 404: Not Found;27.html
+https://welcomeukraine.fr/;URLError: <urlopen error [Errno -2] Name or service not known>;28.html
+https://wiki.frua.fr/ru/administrationinfrance;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;orendu-kvartiri.html
+https://wiki.frua.fr/ru/chooseregion;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;orendu-kvartiri.html
+https://wiki.frua.fr/ru/firstdays;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;21.html | 23.html
+https://wiki.frua.fr/ru/obtainaid;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;28.html
+https://wiki.frua.fr/ru/ukranianembassyfrance;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;28.html
+https://wiki.frua.fr/ru/workinfrance;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;60.html
+https://wiki.frua.fr/ua/associations/list;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;28.html
+https://wiki.frua.fr/ua/dailylife/animals;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;12.html
+https://wiki.frua.fr/ua/dailylife/housing;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;4.html | orendu-kvartiri.html
+https://wiki.frua.fr/ua/dailylife/money;URLError: <urlopen error [Errno -3] Temporary failure in name resolution>;banque-compte.html
+https://wiki.numospilno.com/;URLError: <urlopen error [Errno 111] Connection refused>;27.html
+https://wizzair.com/uk-ua/informatsiia-ta-posluhy/zapytannia-i-vidpovidi/ukrayinski-bizhenci-bezkoshtovni-kvitki;HTTPError: HTTP Error 405: Not Allowed;deplacer-europe.html
+https://www-ac--paris-fr.translate.goog/crise-ukrainienne-contact-de-la-cellule-academique-125243?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://www-ac--paris-fr.translate.goog/oepre-ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants-122812?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;35.html
+https://www-actionlogement-fr.translate.goog/guides/trouver-un-logement/1-patronal-logement)?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;sotsialne-zhitlo.html
+https://www-auvergne--rhone--alpes-paps-sante-fr.translate.goog/conditions-dexercice-en-france-des-professionnels-de-sante-deplaces-dukraine?fs=e&s=cl&_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;19.html
+https://www-bouches--du--rhone-gouv-fr.translate.goog/Demarches-administratives/Etrangers/UKRAINE-Protection-temporaire/Ressortissant-etranger-etudiant-en-Ukraine-pendant-l-annee-2021-2022?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;72.html
+https://www-cnda-fr.translate.goog/La-CNDA/Actualites/UKRAINE-La-situation-de-violence-aveugle-resultant-du-conflit-arme-actuel-dans-les-oblast-de-Jytomyr-Poltava-Soumy-et-Tchernihiv-peut-justifier-l-octroi-de-la-protection-subsidiaire-au-titre-de-l-article-L.-512-1-3-du-CESEDA?_x_tr_sch=http&_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;75.html
+https://www-driiveme-com.translate.goog/concept-location-de-voiture-un-euro.html?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;51.html
+https://www-echosdunet-net.translate.goog/dossiers/carte-sim-prepayee-bureau-tabac?_x_tr_sl=fr&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 410: Gone;simcard.html
+https://www-education-gouv-fr.translate.goog/accueil-et-scolarisation-des-enfants-ukrainiens-340790?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://www-education-gouv-fr.translate.goog/les-colos-apprenantes-304050?fs=e&s=cl&_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;11.html
+https://www-etudiant-gouv-fr.translate.goog/fr/accueil-des-etudiants-ukrainiens-2699?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;TimeoutError: The read operation timed out;72.html
+https://www-franceassureurs-fr.translate.goog/assurance-protege-finance-et-emploie/assurance-protege/actualites/assureurs-offrent-refugies-ukrainiens-60jours-assurance-automobile-responsabilite-civile/?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;46.html | 47.html
+https://www-frizbiz-com.translate.goog/fr?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;61.html
+https://www-gouvernement-fr.translate.goog/guide-victimes/cellules-d-urgence-medico-psychologique-cump?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;soigner-psy.html
+https://www-iledefrance--mobilites-fr.translate.goog/titres-et-tarifs/detail/forfait-paris-visite?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;deplacer-paris.html
+https://www-iledefrance--mobilites-fr.translate.goog/titres-et-tarifs/supports/smartphone?_x_tr_sl=fr&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;navigo.html
+https://www-iledefrance-fr.translate.goog/le-passe-navigo-vous-offre-aussi-des-avantages-culture?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 400: Bad Request;18.html
+https://www-interieur-gouv-fr.translate.goog/actualites/dossiers/situation-en-ukraine/foire-aux-questions-accueil-des-refugies-ukrainiens?_x_tr_sl=fr&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;38.html
+https://www-interieur-gouv-fr.translate.goog/covid-19-deplacements-internationaux?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;soigner-covid.html
+https://www-jemepropose-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;61.html
+https://www-laposte-fr.translate.goog/lettre-recommandee-en-ligne?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 400: Bad Request;zupinka.html
+https://www-legifrance-gouv-fr.translate.goog/codes/id/LEGISCTA000006179569/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;57.html
+https://www-legifrance-gouv-fr.translate.goog/codes/id/LEGISCTA000019325196;HTTPError: HTTP Error 400: Bad Request;invalid.html
+https://www-lingvaflavor-com.translate.goog/kak-sostavit-resume-na-franzyskom/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;60.html
+https://www-monparcourshandicap-gouv-fr.translate.goog/aides/la-pension-dinvalidite-un-revenu-pour-compenser-la-perte-de-capacite-de-travail;HTTPError: HTTP Error 400: Bad Request;invalid.html
+https://www-occitanie-ars-sante-fr.translate.goog/dispositif-pour-faciliter-la-prise-en-charge-des-refugies-ukrainiens-en-situation-de-handicap;HTTPError: HTTP Error 400: Bad Request;invalid.html
+https://www-ouicar-fr.translate.goog/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;51.html
+https://www-paris-fr.translate.goog/pages/paris-se-mobilise-pour-l-ukraine-20504?_x_tr_sl=fr&_x_tr_tl=ru&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;28.html
+https://www-qualitetransports-gouv-fr.translate.goog/vous-etes-ou-vous-voyagez-avec-une-personne-r177.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 404: Not Found;invalid.html
+https://www-sncf-com.translate.goog/fr/offres-voyageurs/voyager-en-toute-situation/animaux-de-compagnie?_x_tr_sl=fr&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;12.html | deplacer-france.html
+https://www-ter-sncf-com.translate.goog/pays-de-la-loire/se-deplacer/solidarite-ukraine?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp&_x_tr_hist=true;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www-veterinaire-fr.translate.goog/communications/actualites/prise-en-charge-des-soins-veterinaires-des-animaux-des-refugies-ukrainiens-en-france?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;12.html
+https://www-vidal-fr.translate.goog/actualites/29001-migrants-ukrainiens;HTTPError: HTTP Error 400: Bad Request;5.html
+https://www-visale-fr.translate.goog/visale-pour-les-locataires/avantages/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=fr&_x_tr_pto=wapp;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.1jeune1solution.gouv.fr/;HTTPError: HTTP Error 403: Forbidden;7.html
+https://www.ain.gouv.fr/IMG/pdf/fiche_pratique_offreprimoarrivants-ukraine.pdf;HTTPError: HTTP Error 404: Not Found;60.html
+https://www.alcopa-auction.fr/;HTTPError: HTTP Error 405: Not Allowed;53.html
+https://www.annuaire-mairie.fr/;HTTPError: HTTP Error 403: Forbidden;8.html
+https://www.arte.tv/en/videos/RC-022372/arte/;HTTPError: HTTP Error 404: Not Found;18.html
+https://www.assu2000.fr/assurance-auto?at_medium=sl&at_campaign=202&at_plateforme_sea=google&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r38s2Q_9wSgKCPTs77U7DvE0mTrrSv3dr70mBMOMPhKmelW3GVF7AAaAlxAEALw_wcB;HTTPError: HTTP Error 403: Forbidden;47.html
+https://www.avendrealouer.fr/;HTTPError: HTTP Error 403: HTTP Forbidden;orendu-kvartiri.html
+https://www.baskatour.com/?;URLError: <urlopen error [Errno -2] Name or service not known>;30.html
+https://www.bealy.io/ukrain-support;HTTPError: HTTP Error 403: Forbidden;soigner-online.html
+https://www.blablacar.com.ua/carpool;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.blablacar.fr/;HTTPError: HTTP Error 403: Forbidden;46.html
+https://www.bonjour-ratp.fr/actualites/articles/reforme-tarifaire-titres/;HTTPError: HTTP Error 403: Forbidden;deplacer-paris.html
+https://www.bouches-du-rhone.gouv.fr/Actualites/Ukraine-mobilisation-des-services-de-l-Etat-dans-le-departement;HTTPError: HTTP Error 401: Authorization Required;22.html
+https://www.bouches-du-rhone.gouv.fr/Actualites/Ukrayina-mobilizaciya-derzhavnih-sluzhb-u-vidomstvi;HTTPError: HTTP Error 401: Authorization Required;38.html
+https://www.breizhgo.bzh/solidaire;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.but.fr/magasins/recherche-magasins;HTTPError: HTTP Error 403: Forbidden;55.html
+https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html;TimeoutError: The read operation timed out;27.html
+https://www.capgemini.com/fr-fr/job-opportunities-in-france-for-those-displaced-by-the-war-in-ukraine/;HTTPError: HTTP Error 404: Not Found;61.html
+https://www.clepsy.fr/%D0%AF%D0%BA-%D1%80%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%B9-%D1%81%D1%82%D1%80%D0%B5%D1%81-%D1%83-%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B8-%D1%96/;HTTPError: HTTP Error 403: Forbidden;mineur-non-accompagne.html | soigner-psy.html
+https://www.cnb.avocat.fr/sites/default/files/documents/note_relative_a_la_protection_temporaire_des_victimes_du_conflit_en_ukraine_v3.pdf;HTTPError: HTTP Error 404: Not Found;38.html | advocat.html
+https://www.conforama.fr/liste-des-magasins;HTTPError: HTTP Error 403: Forbidden;55.html
+https://www.consilium.europa.eu/en/infographics/ukraine-refugees-eu/;HTTPError: HTTP Error 403: Forbidden;euro-survey.html
+https://www.creditmunicipal.fr/encheres/;HTTPError: HTTP Error 404: Not Found;74.html
+https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/fiche-refussoins-num-21.09.18_0.pdf;HTTPError: HTTP Error 404: Not Found;soigner-avec.html
+https://www.demarches.interieur.gouv.fr/particuliers/peut-on-conduire-france-permis-ukrainien;URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name ;45.html
+https://www.dhs.gov/ukraine;HTTPError: HTTP Error 403: Forbidden;27.html
+https://www.diplomatie.gouv.fr/IMG/pdf/---_liste_permis_de_conduire_valables_a_l_echange_09.12.2021---_cle8735a7.pdf;URLError: <urlopen error [Errno 111] Connection refused>;52.html
+https://www.driiveme.com/one;HTTPError: HTTP Error 404: Not Found;51.html
+https://www.economie.gouv.fr/budget-projet-loi-financement-securite-sociale-2024-plfss#;HTTPError: HTTP Error 403: Forbidden;soigner-avec.html
+https://www.economie.gouv.fr/domaine;HTTPError: HTTP Error 403: Forbidden;74.html
+https://www.education.gouv.fr/accueil-et-scolarisation-des-enfants-ukrainiens-340790#edugouv-summary-item-6;HTTPError: HTTP Error 403: Forbidden;65.html
+https://www.education.gouv.fr/media/113177/download;HTTPError: HTTP Error 403: Forbidden;mineur-ecole.html
+https://www.education.gouv.fr/media/114971/download?fs=e&s=cl;HTTPError: HTTP Error 403: Forbidden;11.html
+https://www.empruntemontoutou.com/;HTTPError: HTTP Error 403: Forbidden;12.html
+https://www.ensembleua.com/;URLError: <urlopen error [Errno -2] Name or service not known>;34.html
+https://www.entreparticuliers.com/;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.facebook/;URLError: <urlopen error [Errno -2] Name or service not known>;11.html
+https://www.famillelanguescultures.com/pages/ressources/ukraine.html;HTTPError: HTTP Error 404: Not Found;mineur-divers.html
+https://www.federationsolidarite.org/wp-content/uploads/2022/04/Cadre_HebergementCitoyen2022.pdf;HTTPError: HTTP Error 404: Not Found;je-suis-francais-je-veux-aider-.html
+https://www.federationsolidarite.org/wp-content/uploads/2022/04/Ukraine_Enjeu-gouvernance-et-parcours.pdf;HTTPError: HTTP Error 404: Not Found;je-suis-francais-je-veux-aider-.html
+https://www.feuvert.fr/;HTTPError: HTTP Error 403: Forbidden;50.html
+https://www.flixbus.ua/?_sp=45cf681c-6867-49d9-b5e8-0a67e49083a9.1691771202721&atb_pdid=fa72e1b7-8256-43b7-8a8e-bf05636c5e83&noRedirect=true&_ga=2.190420009.321721623.1691771199-969995147.1688658890;HTTPError: HTTP Error 405: Method Not Allowed;30.html
+https://www.gendarmerie.interieur.gouv.fr/contacts/signaler-une-exploitation-par-le-travail;HTTPError: HTTP Error 403: Forbidden;60.html
+https://www.gestion-camping.com/emploi-camping.html;HTTPError: HTTP Error 403: Forbidden;62.html
+https://www.goethe-verlag.com/book2/FR/FRUK/FRUK002.HTM;HTTPError: HTTP Error 403: Forbidden;34.html
+https://www.gouvernement.fr/guide-victimes/cellules-d-urgence-medico-psychologique-cump;HTTPError: HTTP Error 403: Forbidden;je-suis-francais-je-veux-aider-.html
+https://www.helloasso.com/associations/kabinet/boutiques/operation-montparnasse-version-francaise;HTTPError: HTTP Error 403: Forbidden;18.html | je-suis-francais-je-veux-aider-.html
+https://www.hostelsclub.com/fr/hostels/france/ile-de-france/paris;HTTPError: HTTP Error 404: Not Found;hotel.html
+https://www.immobilier-france.fr/;HTTPError: HTTP Error 429: Too Many Requests;orendu-kvartiri.html
+https://www.indre-et-loire.gouv.fr/Actualites/Ukraine-mobilisation-des-services-de-l-Etat-dans-le-departement;HTTPError: HTTP Error 404: Not Found;38.html
+https://www.info.gouv.fr/actualite/travailleurs-etrangers-la-liste-des-metiers-en-tension-actualisee;HTTPError: HTTP Error 403: Forbidden;75.html
+https://www.instagram.com/associationppu/;HTTPError: HTTP Error 429: Too Many Requests;12.html
+https://www.interencheres.com/;HTTPError: HTTP Error 403: Forbidden;74.html
+https://www.interieur.gouv.fr/Le-ministere/Prefectures;HTTPError: HTTP Error 403: Forbidden;38.html
+https://www.interieur.gouv.fr/actualites/dossiers/situation-en-ukraine/foire-aux-questions-accueil-des-refugies-ukrainiens;HTTPError: HTTP Error 403: Forbidden;38.html | je-suis-francais-je-veux-aider-.html
+https://www.interieur.gouv.fr/actualites/dossiers/situation-en-ukraine/obuchayuschiy-onlayn-kurs-predlagaet-vam-vozmozhnost;HTTPError: HTTP Error 403: Forbidden;34.html | 4.html | orendu-kvartiri.html
+https://www.interieur.gouv.fr/actualites/dossiers/situation-en-ukraine/propoziciya-schodo-onlayn-vivchennya-francuzkoi-movi-ta;HTTPError: HTTP Error 403: Forbidden;34.html
+https://www.interieur.gouv.fr/actualites/grands-dossiers/situation-en-ukraine/information-a-destination-des-personnes-deplacees;HTTPError: HTTP Error 403: Forbidden;76.html
+https://www.justopenarms.eu/fr/;URLError: <urlopen error [Errno -2] Name or service not known>;neofitsine-zhitlo.html
+https://www.label-emmaus.co/fr/nos-boutiques/;HTTPError: HTTP Error 403: Forbidden;55.html
+https://www.lacartedescolocs.fr/;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.lacentrale.fr/;HTTPError: HTTP Error 403: HTTP Forbidden;53.html
+https://www.leboncoin.fr/colocations/offres/ile_de_france/paris;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.leboncoin.fr/locations/offres;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.leboncoin.fr/recherche?category=22&lat=48.8543&lng=2.3527&radius=10000&donation=1;HTTPError: HTTP Error 403: Forbidden;33.html
+https://www.leboncoin.fr/recherche?category=22&lat=48.8543&lng=2.3527&radius=5000&donation=1;HTTPError: HTTP Error 403: Forbidden;32.html
+https://www.leboncoin.fr/recherche?category=23&lat=48.8543&lng=2.3527&radius=10000&price=min-0;HTTPError: HTTP Error 403: Forbidden;33.html
+https://www.leboncoin.fr/recherche?category=23&lat=48.8543&lng=2.3527&radius=5000&price=min-0;HTTPError: HTTP Error 403: Forbidden;32.html
+https://www.leboncoin.fr/recherche?category=47&lat=48.8543&lng=2.3527&radius=10000&donation=1;HTTPError: HTTP Error 403: Forbidden;33.html
+https://www.leboncoin.fr/recherche?category=47&lat=48.8543&lng=2.3527&radius=5000&donation=1;HTTPError: HTTP Error 403: Forbidden;32.html
+https://www.leboncoin.fr/recherche?category=53&lat=48.8543&lng=2.3527&radius=10000&donation=1;HTTPError: HTTP Error 403: Forbidden;33.html
+https://www.leboncoin.fr/recherche?category=53&lat=48.8543&lng=2.3527&radius=5000&donation=1;HTTPError: HTTP Error 403: Forbidden;32.html
+https://www.leboncoin.fr/recherche?text=meuble&lat=48.8323&lng=2.4075&radius=10000&donation=1;HTTPError: HTTP Error 403: Forbidden;55.html
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776554;HTTPError: HTTP Error 403: Forbidden;76.html
+https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006141693/;HTTPError: HTTP Error 403: Forbidden;invalid.html
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042772644/;HTTPError: HTTP Error 403: Forbidden;38.html
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042802252/#LEGISCTA000042806006;HTTPError: HTTP Error 403: Forbidden;38.html
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149804;HTTPError: HTTP Error 403: Forbidden;11.html
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150527;HTTPError: HTTP Error 403: Forbidden;11.html
+https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070158/;HTTPError: HTTP Error 403: Forbidden;76.html
+https://www.legifrance.gouv.fr/jorf/jo/2025/05/29/0125;HTTPError: HTTP Error 403: Forbidden;19.html
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021906923/;HTTPError: HTTP Error 403: Forbidden;19.html
+https://www.lelynx.fr/welcome/sante/mutuelle;HTTPError: HTTP Error 403: Forbidden;63.html
+https://www.lesfurets.com/assurance-auto;HTTPError: HTTP Error 403: Forbidden;47.html
+https://www.lingohut.com/en/l58/learn-french;HTTPError: HTTP Error 403: Forbidden;34.html
+https://www.liquidation-judiciaire.fr/;URLError: <urlopen error [Errno -2] Name or service not known>;74.html
+https://www.logic-immo.com/;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.maaf.fr/fr/assurance-auto;HTTPError: HTTP Error 403: Forbidden;47.html
+https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/;HTTPError: HTTP Error 405: Not Allowed;34.html
+https://www.monespacesante.fr/;HTTPError: HTTP Error 503: Service Temporarily Unavailable;5.html
+https://www.musee-orsay.fr/fr/articles/gratuite-307;HTTPError: HTTP Error 403: Forbidden;18.html
+https://www.naym.me/;HTTPError: HTTP Error 405: Method Not Allowed;61.html
+https://www.ofii.fr/wp-content/uploads/2024/05/Formulaire-français-ukrainien-de-demande-de-prolongation-des-droits-à-lADA.pdf;UnicodeEncodeError: 'ascii' codec can't encode character '\xe7' in position 48: ordinal no;banque-ada.html
+https://www.ofpra.gouv.fr/je-demande-lasile;HTTPError: HTTP Error 403: Forbidden;76.html
+https://www.omio.com/;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.orspere-samdarra.com/ressources/outils/?search-query=&langue%5B%5D=625;HTTPError: HTTP Error 500: Internal Server Error;sante-france.html
+https://www.oscaro.com/;HTTPError: HTTP Error 403: Forbidden;50.html
+https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=association+humanitaire+sociale&ou=Autour+de+moi&univers=pagesjaunes&idOu=&accuracy=5&latitude=48.8543&longitude=2.3527;HTTPError: HTTP Error 403: Forbidden;32.html | 33.html | iest-france.html | iest-paris.html
+https://www.pagesjaunes.fr/carte/recherche?quoiqui=epiceries%20solidaires&ou=paris-75&proximite=0&quoiQuiInterprete=epiceries%20solidaires&univers=pagesjaunes&contexte=m06dZDWbvn1dz8ajq3XceeFojzuWysbjEy3zaBN/m%2Bg%3D&idOu=L07505600&carte=1;HTTPError: HTTP Error 403: Forbidden;iest-france.html | iest-paris.html
+https://www.pap.fr/;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.primolevi.org/ukraine-transmettre-lexperience-du-centre-primo-levi;HTTPError: HTTP Error 404: Not Found;je-suis-francais-je-veux-aider-.html
+https://www.psyhelpforua.eu/home-ua;HTTPError: HTTP Error 404: Not Found;soigner-psy.html
+https://www.ratp.fr/;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html | deplacer-paris.html
+https://www.ratp.fr/plan-de-ligne/img/rer/Plan-RER-et-transiliens.1718895311.png;HTTPError: HTTP Error 403: Forbidden;deplacer-paris.html
+https://www.ratp.fr/titres-et-tarifs;HTTPError: HTTP Error 403: Forbidden;deplacer-paris.html
+https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/5980/;HTTPError: HTTP Error 403: Forbidden;41.html
+https://www.remi-centrevaldeloire.fr/plan-de-reseau-regional-REMI.pdf;HTTPError: HTTP Error 404: Not Found;deplacer-france.html
+https://www.rfi.fr/ru/;HTTPError: HTTP Error 403: Forbidden;18.html
+https://www.rfi.fr/uk/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96-%D0%B7%D0%B0-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%BE%D0%BC/20260814-revolut-%D1%81%D1%82%D0%B0%D1%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%8C%D0%BA%D0%B8%D0%BC-%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC-%D1%89%D0%BE-%D0%B7%D0%BC%D1%96%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BB%D1%96%D1%94%D0%BD%D1%82%D1%96%D0%B2-%D1%96-%D1%87%D0%BE%D0%BC%D1%83-%D1%86%D0%B5-%D0%B2%D0%B0%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96%D0%B2-%D1%83-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%97;HTTPError: HTTP Error 403: Forbidden;banque-compte.html
+https://www.rfi.fr/uk/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8F/20250515-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8F-%D0%B2%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BD%D0%B0%D0%BB%D1%8E%D1%94-%D1%82%D0%B8%D0%BC%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96%D0%B2-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82-%D0%B2%D0%B6%D0%B5-%D1%83%D1%85%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE-%D1%81%D0%B5%D0%BD%D0%B0%D1%82%D0%BE%D0%BC-%D1%96-%D0%BD%D0%B0%D1%86%D0%B0%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%94%D1%8E?utm_slink=rfi.my%2FBfkP;HTTPError: HTTP Error 403: Forbidden;75.html
+https://www.rhone.gouv.fr/Actualites/UKRAINE-Protection-temporaire-des-ressortissants-ukrainiens-FR;HTTPError: HTTP Error 401: Authorization Required;lyon2.html
+https://www.rome2rio.com/fr/;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.sanitaire-social.com/annuaire-carte/centre-communal-d-action-sociale-ccas/paris-75/48.8534,2.3486,10;HTTPError: HTTP Error 500: Internal Server Error;iest-paris.html
+https://www.seloger.com/;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.shelter4ua.com/;HTTPError: HTTP Error 403: Forbidden;neofitsine-zhitlo.html
+https://www.sncf-connect.com/;HTTPError: HTTP Error 403: Forbidden;21.html | deplacer-europe.html | deplacer-france.html
+https://www.sncf-voyageurs.com/fr/contactez-nous/questions-et-reponses/achat-et-reservation/;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.sncf.com/fr/groupe/gratuite-trains-refugies-ukrainiens;HTTPError: HTTP Error 403: Forbidden;21.html | deplacer-europe.html
+https://www.sylnishi.com/;URLError: <urlopen error [Errno -2] Name or service not known>;16.html
+https://www.ter.sncf.com/auvergne-rhone-alpes/tarifs-cartes/cartes-reduction/illico-solidaire;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.ter.sncf.com/bourgogne-franche-comte/se-deplacer/info-trafic/solidarite-ukraine;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.ter.sncf.com/bourgogne-franche-comte/tarifs-cartes/cartes-reduction/carte-solidaire;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.ter.sncf.com/grand-est/se-deplacer/solidarite-Ukraine#;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.ter.sncf.com/occitanie/tarifs-cartes/carte-solidaire;HTTPError: HTTP Error 403: Forbidden;deplacer-france.html
+https://www.ticketlouvre.fr/louvre/b2c/index.cfm;HTTPError: HTTP Error 403: Forbidden;18.html
+https://www.ua.support/uk/frantsiya/;HTTPError: HTTP Error 466: ;advocat.html
+https://www.ukraina.space/fr/?fbclid=IwAR2mPFb7LRSEWPVQdV8o5smUn8U8gOpTk3krO-t95q1Wl-upN-IVYpJyJxs;URLError: <urlopen error [Errno -2] Name or service not known>;neofitsine-zhitlo.html
+https://www.ukraineslovakia.sk/;HTTPError: HTTP Error 466: ;27.html
+https://www.unitedforukraine.org/uk;URLError: <urlopen error [Errno 104] Connection reset by peer>;28.html
+https://www.untoitpourlukraine.org/;URLError: <urlopen error [Errno -2] Name or service not known>;neofitsine-zhitlo.html
+https://www.vps-protectionparoccupation.fr/residences;HTTPError: HTTP Error 403: Forbidden;orendu-kvartiri.html
+https://www.yvelines.gouv.fr/Actualites/Informations-a-destination-des-ressortissants-ukrainiens;HTTPError: HTTP Error 404: Not Found;38.html
+https://yoopies.fr/;HTTPError: HTTP Error 405: Not Allowed;61.html

@@ -1,0 +1,6 @@
+# Robots file
+User-agent: *
+Allow: /
+Disallow: /-_-/api/
+
+Sitemap: https://ukrainefrance.org/sitemap.xml
