@@ -31,6 +31,22 @@ from bs4 import BeautifulSoup
 ROOT = pathlib.Path("site-mirror")
 MAX_TEXTE = 12000
 EXCLURE = {"poshuk.html"}
+
+# Blocs d'habillage repetes sur les 142 pages : ils ne doivent jamais servir
+# de titre de resultat, ni polluer les extraits. « Маєте кориснішу
+# інформацію? » est un <h1> place hors <footer> par MyWebsite, donc le
+# retrait des balises <footer> ne suffit pas a l'ecarter.
+HABILLAGE = [
+    "Маєте кориснішу інформацію",
+    "Зв'яжіться з нами",
+    "Зв\u2019яжіться з нами",
+    "Напишіть нам",
+]
+
+
+def est_habillage(t: str) -> bool:
+    t = t.strip().lower()
+    return any(b.lower() in t for b in HABILLAGE)
 MARQUE_DEBUT = "<!-- bouton-recherche -->"
 MARQUE_FIN = "<!-- /bouton-recherche -->"
 
@@ -93,15 +109,20 @@ for f in pages_html():
         tag.decompose()
 
     titre = ""
-    h = soup.find(["h1", "h2"])
-    if h:
-        titre = h.get_text(" ", strip=True)
+    for h in soup.find_all(["h1", "h2", "h3"]):
+        t = h.get_text(" ", strip=True)
+        if t and not est_habillage(t):
+            titre = t
+            break
     if not titre and soup.title:
         titre = soup.title.get_text(strip=True)
     titre = re.sub(r"\s+", " ", titre)[:110] or f.stem
 
     main = soup.find("main") or soup.body or soup
-    texte = re.sub(r"\s+", " ", main.get_text(" ", strip=True))[:MAX_TEXTE]
+    texte = re.sub(r"\s+", " ", main.get_text(" ", strip=True))
+    for b in HABILLAGE:
+        texte = texte.replace(b, " ")
+    texte = re.sub(r"\s+", " ", texte).strip()[:MAX_TEXTE]
     if len(texte) < 40:
         continue
 
