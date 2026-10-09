@@ -220,7 +220,7 @@ function echappe(t){
 }
 
 etat.textContent = 'Завантаження…';
-fetch('/recherche-index.json')
+fetch('/recherche-index.json?v=__VERSION__')
   .then(function(r){ if(!r.ok) throw 0; return r.json(); })
   .then(function(d){
     DOCS = d;
@@ -322,12 +322,19 @@ if (p) q.value = p;
 </html>
 """
 
-(ROOT / "poshuk.html").write_text(PAGE, encoding="utf-8")
+# Empreinte du contenu : elle change des qu'une page change, donc l'URL de
+# l'index change aussi et le navigateur du lecteur retelecharge au lieu de
+# servir une version perimee depuis son cache.
+import hashlib
+version = hashlib.sha1(index.read_bytes()).hexdigest()[:10]
+(ROOT / "poshuk.html").write_text(PAGE.replace("__VERSION__", version),
+                                  encoding="utf-8")
 
 ko = index.stat().st_size / 1024
 print(f"{len(docs)} pages indexees")
 print(f"index : {ko:.0f} Ko brut (environ {ko*0.28:.0f} Ko compresse a la livraison)")
 print(f"page  : {ROOT / 'poshuk.html'}  ->  /poshuk.html")
+print(f"version de l'index : {version}")
 print()
 print("Pour ajouter un bouton de recherche sur toutes les pages :")
 print("    python3 recherche.py --lien")
