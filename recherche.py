@@ -31,6 +31,22 @@ from bs4 import BeautifulSoup
 ROOT = pathlib.Path("site-mirror")
 MAX_TEXTE = 12000
 EXCLURE = {"poshuk.html"}
+
+# Blocs d'habillage repetes sur les 142 pages : ils ne doivent jamais servir
+# de titre de resultat, ni polluer les extraits. « Маєте кориснішу
+# інформацію? » est un <h1> place hors <footer> par MyWebsite, donc le
+# retrait des balises <footer> ne suffit pas a l'ecarter.
+HABILLAGE = [
+    "Маєте кориснішу інформацію",
+    "Зв'яжіться з нами",
+    "Зв\u2019яжіться з нами",
+    "Напишіть нам",
+]
+
+
+def est_habillage(t: str) -> bool:
+    t = t.strip().lower()
+    return any(b.lower() in t for b in HABILLAGE)
 MARQUE_DEBUT = "<!-- bouton-recherche -->"
 MARQUE_FIN = "<!-- /bouton-recherche -->"
 
@@ -93,15 +109,20 @@ for f in pages_html():
         tag.decompose()
 
     titre = ""
-    h = soup.find(["h1", "h2"])
-    if h:
-        titre = h.get_text(" ", strip=True)
+    for h in soup.find_all(["h1", "h2", "h3"]):
+        t = h.get_text(" ", strip=True)
+        if t and not est_habillage(t):
+            titre = t
+            break
     if not titre and soup.title:
         titre = soup.title.get_text(strip=True)
     titre = re.sub(r"\s+", " ", titre)[:110] or f.stem
 
     main = soup.find("main") or soup.body or soup
-    texte = re.sub(r"\s+", " ", main.get_text(" ", strip=True))[:MAX_TEXTE]
+    texte = re.sub(r"\s+", " ", main.get_text(" ", strip=True))
+    for b in HABILLAGE:
+        texte = texte.replace(b, " ")
+    texte = re.sub(r"\s+", " ", texte).strip()[:MAX_TEXTE]
     if len(texte) < 40:
         continue
 
@@ -199,7 +220,7 @@ function echappe(t){
 }
 
 etat.textContent = 'Завантаження…';
-fetch('/recherche-index.json')
+fetch('/recherche-index.json?v=__VERSION__')
   .then(function(r){ if(!r.ok) throw 0; return r.json(); })
   .then(function(d){
     DOCS = d;
@@ -301,12 +322,19 @@ if (p) q.value = p;
 </html>
 """
 
-(ROOT / "poshuk.html").write_text(PAGE, encoding="utf-8")
+# Empreinte du contenu : elle change des qu'une page change, donc l'URL de
+# l'index change aussi et le navigateur du lecteur retelecharge au lieu de
+# servir une version perimee depuis son cache.
+import hashlib
+version = hashlib.sha1(index.read_bytes()).hexdigest()[:10]
+(ROOT / "poshuk.html").write_text(PAGE.replace("__VERSION__", version),
+                                  encoding="utf-8")
 
 ko = index.stat().st_size / 1024
 print(f"{len(docs)} pages indexees")
 print(f"index : {ko:.0f} Ko brut (environ {ko*0.28:.0f} Ko compresse a la livraison)")
 print(f"page  : {ROOT / 'poshuk.html'}  ->  /poshuk.html")
+print(f"version de l'index : {version}")
 print()
 print("Pour ajouter un bouton de recherche sur toutes les pages :")
 print("    python3 recherche.py --lien")

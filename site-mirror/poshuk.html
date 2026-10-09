@@ -77,7 +77,7 @@ function echappe(t){
 }
 
 etat.textContent = 'Завантаження…';
-fetch('/recherche-index.json')
+fetch('/recherche-index.json?v=c6da08d5f1')
   .then(function(r){ if(!r.ok) throw 0; return r.json(); })
   .then(function(d){
     DOCS = d;
